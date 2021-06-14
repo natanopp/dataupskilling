@@ -1,3 +1,6 @@
+-- Basic SQL Code
+-- Practice them with Maventoys dataset 
+
 --SELECT 
 --Select all columns from table
 SELECT * FROM `sql-training-314708.maventoys.sales`;
@@ -21,15 +24,15 @@ FROM `sql-training-314708.maventoys.sales`;
 SELECT DISTINCT Store_ID
 FROM `sql-training-314708.maventoys.sales`;
 
-Get total of units sold from sales table
+-- Get total of units sold from sales table
 SELECT SUM(Units)
 FROM `sql-training-314708.maventoys.sales`;
 
-Get sum, min, max, average units sold from sales 
+-- Get sum, min, max, average units sold from sales 
 SELECT SUM(Units), MAX(Units), MIN(Units), AVG(Units)
 FROM `sql-training-314708.maventoys.sales`;
 
-Get sum, min, max, average units sold from sales. With proper field names
+-- Get sum, min, max, average units sold from sales. With proper field names
 SELECT SUM(Units) AS Total , MAX(Units) AS Maximum, MIN(Units) AS Minimum, AVG(Units) AS Av
 FROM `sql-training-314708.maventoys.sales` ;
 
