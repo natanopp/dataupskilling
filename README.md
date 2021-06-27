@@ -8,5 +8,6 @@ Coding references for data upskilling program
 
 ## Python
 1. Variables and expressions
-2. Data structure basic - lists and sets
+2. Data structures basic - lists and sets
 3. Strings
+4. Functions and control flows
