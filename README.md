@@ -1,5 +1,5 @@
 # dataupskilling repository
-Coding references for data upskilling program
+Coding references for data upskilling program (SQL and Python)
 
 ## SQL
 - Basic queries for working with example datasets in class (syntax used with Google Bigquery). 
