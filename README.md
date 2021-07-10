@@ -20,4 +20,4 @@ Learn how to manipulate PANel DAta very quickly. We use two example datasets
 There are three notebooks regarding Pandas tutorial
 1. Essential concepts for working with Pandas module (Functions, Modules, Arrays and Vectorization, File Directory)
 2. Pandas part I (Reading, Inspecting, Indexing and Selecting, Applying Functions, Saving Data)
-3. Pandas part II (Miss data treatment, Data Aggregation, Merging) 
+3. Pandas part II (Missing data treatment, Data Aggregation, Merging) 
